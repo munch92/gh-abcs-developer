@@ -1,7 +1,7 @@
 # 2 - GitHub Templates
 In this lab you will create issue and pull request templates and make an existing repository a template.
 > Duration: 5-10 minutes
-
+xcs
 References:
 - [Issue & pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
 - [Configuring issue templates for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
